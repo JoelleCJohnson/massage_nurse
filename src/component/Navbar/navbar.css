@@ -1,0 +1,24 @@
+
+nav {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #c9d6f982;
+    /* width: fit-content; */
+    justify-content: end;
+    align-items: end;
+  }
+  
+  ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 0;
+    min-width:max-content;
+    background-position:center;
+  }
+  li {
+    display: flex;
+    margin: 3px 1rem;
+  }
+  
+ 
